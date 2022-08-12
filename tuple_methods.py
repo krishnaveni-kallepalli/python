@@ -1,0 +1,18 @@
+t=(1,2,1,2,2,2,3,3,4,5,6,7,8)
+
+def tuple_methods(t):
+    print("1.count",end="\t")
+    x=t.count(3)
+    print(x,end="\t")
+    x=t.count(2)
+    print(x,end="\t")
+    x=t.count(1)
+    print(x,end="\n")
+    print("1.index",end="\t")
+    x=t.index(3)
+    print(x,end="\t")
+    x=t.index(2)
+    print(x,end="\t")
+    x=t.index(1)
+    print(x,end="\n")
+tuple_methods(t)
