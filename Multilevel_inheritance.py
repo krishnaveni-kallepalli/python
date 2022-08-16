@@ -15,3 +15,4 @@ obj = B()
 obj.fun1()
 obj = C()
 obj.fun2()
+ 
