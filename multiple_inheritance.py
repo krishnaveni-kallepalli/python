@@ -12,3 +12,4 @@ class C(A,B):
         return
 obj = C()
 obj.fun()
+  
