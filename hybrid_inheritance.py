@@ -20,3 +20,4 @@ obj = C()
 obj.fun2()
 obj = D()
 obj.fun3()
+  
